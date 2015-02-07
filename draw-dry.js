@@ -101,9 +101,5 @@ window.onload = function(){
 	buttons.restore.onclick = function(){
 		context.putImageData(imagedata,0,0);
 	}
-	
-	
 	clear();
-	
-	
 }
